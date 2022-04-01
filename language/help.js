@@ -296,14 +296,14 @@ Thanks!
 *-------「 SEWA & JADI BOT 」-------*
 
 ┌── *Sewa Bot*
-│» Sewa 5k/minggu
-│» Sewa 10k/bln
-│» Sewa Permanen 25k
+│» Sewa 3k/minggu
+│» Sewa 5k/bln
+│» Sewa Permanen 10k
 └───────
 
 ┌── *Jadi Bot*
-│» Jadi Bot 30k/bln
-│» Jadi Bot + Owner 35k
+│» Jadi Bot 20k/bln
+│» Jadi Bot + Owner 20k
 │» Jasa Run Bot 20k
 └───────
 
