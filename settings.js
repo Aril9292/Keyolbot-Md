@@ -37,7 +37,7 @@ global.packname = 'X9-Md'
 global.author = 'WhatsApp Bot Multi-Device'
 
 // Thumb & Image random
-global.thumb = fs.readFileSync('./image/keyol.jpg')
+global.thumb = fs.readFileSync('./image/20220402_010523.jpg')
 global.pp_video = fs.readFileSync('./image/keyol.mp4')
 
 /*
